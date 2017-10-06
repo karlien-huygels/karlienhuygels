@@ -467,7 +467,7 @@ footer{
     width: 80%;
   }
   nav{
-    left: 35%;
+    left: 30%;
     top: 30px;
   }
   nav a{
@@ -543,6 +543,10 @@ footer{
 }
 
 @media screen and (max-width: 330px){
+  nav{
+    left: 25%;
+    top: 30px;
+  }
   #gridfooter {
         display: grid;
         width: 100%;
